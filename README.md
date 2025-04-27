@@ -94,7 +94,7 @@ This section details the manual deployment workflow on IaaS:
 ## 🔗 Links
 
 - **Live Site**: `http://20.67.250.143`  
-- **GitHub Repo**: https://github.com/kavindi16/portfolio-website
+- **GitHub Repo**: https://github.com/Kavindi16/Example_portfolio_website
 - **Video_Link**: https://youtu.be/jcyoaQV44BM
 
 ---
